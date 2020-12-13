@@ -29,3 +29,15 @@ To get started with a project in Django, write the following in the terminal:
 django-admin startproject my-new-django-project
 ```
 You will now see a folder in your project directory called 'my-new-django-project' or whatever you called your project!
+
+### :pencil: Start the server
+
+To run the server, type:
+
+```
+python manage.py runserver
+```
+### :pencil: Create an app
+```
+python manage.py startapp app-name
+```
